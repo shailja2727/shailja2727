@@ -1,5 +1,6 @@
 #### Hey there, I'm Shailja Bahuguna
-<iframe src="https://giphy.com/embed/ule4vhcY1xEKQ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reactionseditor-cat-typing-ule4vhcY1xEKQ">via GIPHY</a></p>
+<img src="https://giphy.com/embed/ule4vhcY1xEKQ" width="40" height="40" />
+
 
 
 Currently a penultimate year student 
