@@ -1,5 +1,6 @@
 #### Hey there, I'm Shailja Bahuguna
-<img src="https://giphy.com/embed/ule4vhcY1xEKQ" width="240" height="240" />
+
+![] (https://media0.giphy.com/media/ule4vhcY1xEKQ/giphy.gif?cid=ecf05e47t4bh8mlvgkh69pe0ku98ftzz4l70imserp2wcwwi&rid=giphy.gif&ct=g)
 
 
 
