@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there, I'm Shailja Bahuguna
+![image](https://user-images.githubusercontent.com/99111449/210133914-a6e85f04-a34f-479d-94c3-db91d63921c1.png)
+Currently a penultimate year student 
 
 <!--
 **shailja2727/shailja2727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
