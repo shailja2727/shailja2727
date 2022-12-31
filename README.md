@@ -1,5 +1,6 @@
 #### Hey there, I'm Shailja Bahuguna
-https://res.cloudinary.com/practicaldev/image/fetch/s---GNGn5gi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d68nwne7fu52km8gzrie.gif
+![image](https://user-images.githubusercontent.com/99111449/210134375-1c98b23f-b9f2-4123-a55f-badff6ea5058.png)
+
 
 Currently a penultimate year student 
 
