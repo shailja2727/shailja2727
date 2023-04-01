@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shailja Bahuguna</h1>
 <h3 align="center">A penultimate year student at Graphic Era University</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/GOj9ZF_-ZOcAAAAM/cat.gif">
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif?cid=6c09b952jwqmrz1q7psxwl1nkxy3wxgag7le72ctjcugorck&rid=giphy.gif&ct=g">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailja2727&label=Profile%20views&color=0e75b6&style=flat" alt="shailja2727" /> </p>
